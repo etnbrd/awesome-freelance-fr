@@ -14,7 +14,7 @@
 + [N26](https://next.n26.com/fr-fr/)
 + [Shine](https://shine.fr/)
 
-## Complémentaire santée
+## Complémentaire santé
 
 + [Alan](https://alan.eu/)
 + [WeMind](https://www.wemind.io/)
