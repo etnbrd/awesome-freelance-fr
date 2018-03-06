@@ -8,7 +8,7 @@
 + [Facture.net](Facture.net) [free]
 + [Zervant](https://www.zervant.com/) [free]
 
-## Banks
+## Banque
 
 + [Qonto](https://qonto.eu/)
 + [N26](https://next.n26.com/fr-fr/)
