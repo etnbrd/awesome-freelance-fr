@@ -19,7 +19,7 @@
 + [Alan](https://alan.eu/)
 + [WeMind](https://www.wemind.io/)
 
-## Résponsabilité civile professionnelle
+## Responsabilité civile professionnelle
 
 + [Hiscox](https://www.hiscox.fr/)
 + [WeMind](https://www.wemind.io/)
