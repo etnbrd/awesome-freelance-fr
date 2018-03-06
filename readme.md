@@ -2,6 +2,10 @@
 
 # Awesome freelance tools - fr
 
+## Administratif
+
++ [Calculateur de charges EURL / SASU](http://antoineviau.com/eurl-sasu/) [free] ([source](https://github.com/AntoineViau/eurl-sasu))
+
 ## Facturation
 
 + [And.co](https://www.and.co/) [free]
