@@ -6,6 +6,7 @@
 
 + [Calculateur de charges EURL / SASU](http://antoineviau.com/eurl-sasu/) [free] ([source](https://github.com/AntoineViau/eurl-sasu))
 + [Signature en ligne](https://dochub.com/) [freemium]
++ [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) [free]
 
 ## Facturation
 
