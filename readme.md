@@ -8,6 +8,7 @@
 + [Signature en ligne](https://dochub.com/) [freemium]
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) [free]
 + [Modèles de documents (devis, facture, contrat, relance ...)](https://www.soto.works/resourcescenter) [inscription gratuite]
++ [Modèles de documents pour startup (statuts, cession de PI ...)](https://www.jurismatic.com/)
 
 ## Mise en relation
 
