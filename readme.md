@@ -5,6 +5,7 @@
 ## Administratif
 
 + [Calculateur de charges EURL / SASU](http://antoineviau.com/eurl-sasu/) [free] ([source](https://github.com/AntoineViau/eurl-sasu))
++ [Calculateur avantage en nature automobile](https://adriantombu.github.io/avantage-nature-auto/) [free] ([source](https://github.com/adriantombu/avantage-nature-auto))
 + [Signature en ligne](https://dochub.com/) [freemium]
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) [free]
 + [Modèles de documents (devis, facture, contrat, relance ...)](https://www.soto.works/resourcescenter) [inscription gratuite]
