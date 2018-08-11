@@ -14,7 +14,7 @@
 ## Mise en relation
 
 + [Malt](https://www.malt.fr/)
-+ [XXE](https://www.xxe.fr/) [pas de comission]
++ [XXE](https://www.xxe.fr/) [pas de commission]
 + [Comet](https://www.hellocomet.co/) [tech/data]
 
 ## Facturation
