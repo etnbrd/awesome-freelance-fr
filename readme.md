@@ -10,11 +10,12 @@
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) [free]
 + [Modèles de documents (devis, facture, contrat, relance ...)](https://www.soto.works/resourcescenter) [inscription gratuite]
 + [Modèles de documents pour startup (statuts, cession de PI ...)](https://www.jurismatic.com/)
++ [Document vie entreprise](https://www.legalstart.fr/)
 
 ## Mise en relation
 
 + [Malt](https://www.malt.fr/)
-+ [XXE](https://www.xxe.fr/) [pas de comission]
++ [XXE](https://www.xxe.fr/) [pas de commission]
 + [Comet](https://www.hellocomet.co/) [tech/data]
 
 ## Facturation
