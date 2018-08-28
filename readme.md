@@ -42,8 +42,9 @@
 ## Banque
 
 + [Qonto](https://qonto.eu/)
-+ [N26](https://next.n26.com/fr-fr/)
++ [N26](https://next.n26.com/fr-fr/) [DE]
 + [Shine](https://shine.fr/)
++ [Revolut](https://www.revolut.com/fr/) [UK]
 
 ## Complémentaire santé
 
