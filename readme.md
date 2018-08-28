@@ -10,17 +10,22 @@
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) [free]
 + [Modèles de documents (devis, facture, contrat, relance ...)](https://www.soto.works/resourcescenter) [inscription gratuite]
 + [Modèles de documents pour startup (statuts, cession de PI ...)](https://www.jurismatic.com/)
++ [Document vie entreprise](https://www.legalstart.fr/)
 
 ## Mise en relation
 
 + [Malt](https://www.malt.fr/)
-+ [XXE](https://www.xxe.fr/) [pas de comission]
++ [XXE](https://www.xxe.fr/) [pas de commission]
 + [Comet](https://www.hellocomet.co/) [tech/data]
++ [Iziday](https://www.iziday.com/) [tech/data]
++ [LittleBig Connection](https://www.littlebigconnection.com/fr/)
++ [Club Freelance](https://www.club-freelance.com/fr/)
 
 ## Facturation
 
 + [And.co](https://www.and.co/) [free]
 + [Facture.net](https://facture.net) [free]
++ [Freelancer](https://freelancer-app.fr/) [freemium]
 + [Henrri](https://henrri.net) [free]
 + [MyAE](https://www.myae.fr/) [freemium]
 + [Tiime AE](https://www.tiime-ae.fr/) [free]
