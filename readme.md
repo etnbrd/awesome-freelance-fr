@@ -4,13 +4,20 @@
 
 ## Administratif
 
-+ [Calculateur de charges EURL / SASU](http://antoineviau.com/eurl-sasu/) [free] ([source](https://github.com/AntoineViau/eurl-sasu))
-+ [Calculateur avantage en nature automobile](https://adriantombu.github.io/avantage-nature-auto/) [free] ([source](https://github.com/adriantombu/avantage-nature-auto))
-+ [Signature en ligne](https://dochub.com/) [freemium]
+### Accompagnement
++ [Legalstart](https://www.legalstart.fr/)
+
+### Modèles de documents
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) [free]
 + [Modèles de documents (devis, facture, contrat, relance ...)](https://www.soto.works/resourcescenter) [inscription gratuite]
 + [Modèles de documents pour startup (statuts, cession de PI ...)](https://www.jurismatic.com/)
-+ [Document vie entreprise](https://www.legalstart.fr/)
+
+### Signature en ligne
++ [dochub](https://dochub.com/) [freemium]
+
+### Calculateurs
++ [Calculateur de charges EURL / SASU](http://antoineviau.com/eurl-sasu/) [free] ([source](https://github.com/AntoineViau/eurl-sasu))
++ [Calculateur avantage en nature automobile](https://adriantombu.github.io/avantage-nature-auto/) [free] ([source](https://github.com/adriantombu/avantage-nature-auto))
 
 ## Mise en relation
 
