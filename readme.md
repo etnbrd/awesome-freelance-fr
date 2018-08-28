@@ -63,6 +63,7 @@
 
 ## Comptabilité
 
-+ [Dougs](https://www.dougs.fr/)
-+ [L'Expert Comptable](https://www.l-expert-comptable.com/)
-+ [Novaa](http://www.novaa-expertise.com/)
++ [Dougs](https://www.dougs.fr/) [En ligne]
++ [L'Expert Comptable](https://www.l-expert-comptable.com/) [En ligne]
++ [Goneo](https://www.goneo-expertise.com/) [Lyon]
++ [Novaa](http://www.novaa-expertise.com/) [Paris]
