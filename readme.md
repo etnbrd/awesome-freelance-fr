@@ -33,6 +33,7 @@
 
 + [And.co](https://www.and.co/) [free]
 + [Facture.net](https://facture.net) [free]
++ [Freebe](https://www.freebe.me/) [84€/an]
 + [Freelancer](https://freelancer-app.fr/) [freemium]
 + [Henrri](https://henrri.net) [free]
 + [MyAE](https://www.myae.fr/) [freemium]
