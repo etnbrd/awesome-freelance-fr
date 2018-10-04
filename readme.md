@@ -39,6 +39,9 @@
 + [MyAE](https://www.myae.fr/) [freemium]
 + [Tiime AE](https://www.tiime-ae.fr/) [free]
 + [Zervant](https://www.zervant.com/) [free]
++ [Invoice Quick](https://invoicequick.com/) [freemium]
++ [Manta](https://manta.life/) [free]
++ [SolidInvoice](https://solidinvoice.co/) [free]
 
 ## Banque
 
