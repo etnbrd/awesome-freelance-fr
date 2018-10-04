@@ -36,7 +36,10 @@
 + [Freebe](https://www.freebe.me/) [84€/an]
 + [Freelancer](https://freelancer-app.fr/) [freemium]
 + [Henrri](https://henrri.net) [free]
++ [Invoice Quick](https://invoicequick.com/) [freemium]
++ [Manta](https://manta.life/) [free]
 + [MyAE](https://www.myae.fr/) [freemium]
++ [SolidInvoice](https://solidinvoice.co/) [free]
 + [Tiime AE](https://www.tiime-ae.fr/) [free]
 + [Zervant](https://www.zervant.com/) [free]
 
