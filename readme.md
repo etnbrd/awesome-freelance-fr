@@ -13,8 +13,8 @@
 + [Modèles de documents pour startup (statuts, cession de PI ...)](https://www.jurismatic.com/)
 
 ### Signature en ligne
-+ [dochub](https://dochub.com/) [freemium]
 + [Blockusign](https://blockusign.co/) [free]
++ [dochub](https://dochub.com/) [freemium]
 
 ### Calculateurs
 + [Calculateur de charges EURL / SASU](http://antoineviau.com/eurl-sasu/) [free] ([source](https://github.com/AntoineViau/eurl-sasu))
