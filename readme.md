@@ -13,7 +13,7 @@
 + [Modèles de documents pour startup (statuts, cession de PI ...)](https://www.jurismatic.com/)
 
 ### Signature en ligne
-+ [Blockusign](https://blockusign.co/) [free]
++ [Blockusign](https://blockusign.co/)
 + [dochub](https://dochub.com/) [freemium]
 
 ### Calculateurs
