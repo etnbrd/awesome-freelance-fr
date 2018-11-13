@@ -6,6 +6,7 @@
 
 ### Accompagnement
 + [Legalstart](https://www.legalstart.fr/)
++ [Agence Juridique](https://agence-juridique.com)
 
 ### Modèles de documents
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) [free]
