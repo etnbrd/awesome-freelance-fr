@@ -6,6 +6,7 @@
 
 ### Accompagnement
 + [Agence Juridique](https://agence-juridique.com)
++ [KickBanking](https://www.kickbanking.com/)
 + [Legalstart](https://www.legalstart.fr/)
 
 ### Modèles de documents
@@ -20,6 +21,7 @@
 ### Calculateurs
 + [Calculateur de charges EURL / SASU](http://antoineviau.com/eurl-sasu/) [free] ([source](https://github.com/AntoineViau/eurl-sasu))
 + [Calculateur avantage en nature automobile](https://adriantombu.github.io/avantage-nature-auto/) [free] ([source](https://github.com/adriantombu/avantage-nature-auto))
++ [Calculateur de cotisations sociales](https://simulation.kickbanking.com/) [free]
 
 ## Mise en relation
 
