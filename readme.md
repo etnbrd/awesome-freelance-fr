@@ -5,6 +5,7 @@
 ## Administratif
 
 ### Accompagnement
++ [KickBanking](https://www.kickbanking.com/)
 + [Legalstart](https://www.legalstart.fr/)
 
 ### Modèles de documents
@@ -73,7 +74,3 @@
 + [L'Expert Comptable](https://www.l-expert-comptable.com/) [En ligne]
 + [Goneo](https://www.goneo-expertise.com/) [Lyon]
 + [Novaa](http://www.novaa-expertise.com/) [Paris]
-
-## Cotisations sociales (URSSAF, CIPAV, SSI, Net-entreprises...)
-
-+ [KickBanking](https://www.kickbanking.com/)
