@@ -5,6 +5,7 @@
 ## Administratif
 
 ### Accompagnement
++ [Agence Juridique](https://agence-juridique.com)
 + [KickBanking](https://www.kickbanking.com/)
 + [Legalstart](https://www.legalstart.fr/)
 
