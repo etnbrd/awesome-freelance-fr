@@ -26,10 +26,10 @@
 ## Mise en relation
 
 + [Acmé](https://www.joinacme.co/) [comission fixe à la mise en relation]
-+ [CremeDeLaCreme] (https://cremedelacreme.io)
++ [CremeDeLaCreme](https://cremedelacreme.io)
 + [Malt](https://www.malt.fr/)
 + [XXE](https://www.xxe.fr/) [pas de commission]
-+ [Comet](https://www.hellocomet.co/) [tech/data]
++ [Comet](https://www.comet.co/) [tech/data, pas de commission]
 + [Iziday](https://www.iziday.com/) [tech/data]
 + [LittleBig Connection](https://www.littlebigconnection.com/fr/)
 + [Club Freelance](https://www.club-freelance.com/fr/)
