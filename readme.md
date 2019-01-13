@@ -25,7 +25,6 @@
 
 ## Mise en relation
 
-+ [Acmé](https://www.joinacme.co/) [comission fixe à la mise en relation]
 + [CremeDeLaCreme](https://cremedelacreme.io)
 + [Malt](https://www.malt.fr/)
 + [XXE](https://www.xxe.fr/) [pas de commission]
