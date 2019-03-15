@@ -33,6 +33,7 @@
 + [Iziday](https://www.iziday.com/) [tech/data]
 + [LittleBig Connection](https://www.littlebigconnection.com/fr/)
 + [Club Freelance](https://www.club-freelance.com/fr/)
++ [Popcorn-Nantes](https://popcorn-nantes.github.io/)[Open Source et sans commission]
 + [Popcorn-Morbihan](https://popcorn-morbihan.github.io/) [Open Source et sans commission]
 
 ## Facturation
