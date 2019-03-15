@@ -29,7 +29,7 @@
 + [CremeDeLaCreme](https://cremedelacreme.io)
 + [Malt](https://www.malt.fr/)
 + [XXE](https://www.xxe.fr/) [pas de commission]
-+ [Comet](https://www.comet.co/) [tech/data, pas de commission]
++ [Comet](https://www.comet.co/) [tech/data]
 + [Iziday](https://www.iziday.com/) [tech/data]
 + [LittleBig Connection](https://www.littlebigconnection.com/fr/)
 + [Club Freelance](https://www.club-freelance.com/fr/)
