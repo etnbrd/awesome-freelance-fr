@@ -70,7 +70,7 @@
 ## Responsabilité civile professionnelle
 
 + [Hiscox](https://www.hiscox.fr/)
-+ [WeMind](https://www.wemind.io/) ![30€/mois](https://badgen.net/badge/%2Fmois/30%20%E2%82%AC/orange)
++ [WeMind](https://www.wemind.io/) <img alt="30€/mois" style="float: right" src="https://img.shields.io/badge/%2Fmois-30%20%E2%82%AC-orange.svg" />
 
 ## Portage salarial
 
