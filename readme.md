@@ -33,7 +33,7 @@
 + [CremeDeLaCreme](https://cremedelacreme.io) ![Commission](https://badgen.net/badge/Commission/15%20%25/orange)
 + [Malt](https://www.malt.fr/) ![Commission](https://badgen.net/badge/Commission/10%20%25/orange)
 + [XXE](https://www.xxe.fr/) ![Commission][aucune commission]
-+ [Comet](https://www.comet.co/) ![Commission](https://badgen.net/badge/Commission/15%20%25/orange) ![Tech/Data](https://badgen.net/badge//Tech%2FData/grey)
++ [Comet](https://www.comet.co/) ![Commission](https://badgen.net/badge/Commission/15%20%25/orange) ![Tech/Data][tech-data]
 + [Iziday](https://www.iziday.com/) ![Commission](https://badgen.net/badge/Commission/12%20%25/orange) ![Tech/Data](https://badgen.net/badge//Tech%2FData/grey)
 + [LittleBig Connection](https://www.littlebigconnection.com/fr/) ![Commission](https://badgen.net/badge/Commission/Variable/yellow)
 + [Club Freelance](https://www.club-freelance.com/fr/)
@@ -57,10 +57,10 @@
 
 ## Banque
 
-+ [Qonto](https://qonto.eu/) ![FR](https://badgen.net/badge/Localisation/FR/pink)
-+ [N26](https://next.n26.com/fr-fr/) ![DE](https://badgen.net/badge/Localisation/DE/yellow)
-+ [Shine](https://shine.fr/) ![FR](https://badgen.net/badge/Localisation/FR/pink)
-+ [Revolut](https://www.revolut.com/fr/) ![UK](https://badgen.net/badge/Localisation/UK/yellow)
++ [Qonto](https://qonto.eu/) ![FR][FR]
++ [N26](https://next.n26.com/fr-fr/) ![DE][DE]
++ [Shine](https://shine.fr/) ![FR][FR]
++ [Revolut](https://www.revolut.com/fr/) ![UK][UK]
 
 ## Complémentaire santé
 
@@ -84,6 +84,10 @@
 + [Goneo](https://www.goneo-expertise.com/) ![Lyon](https://badgen.net/badge/Localisation/Lyon/pink)
 + [Novaa](http://www.novaa-expertise.com/) ![Paris](https://badgen.net/badge/Localisation/Paris/pink)
 
-[free]: https://badgen.net/badge//free/green
-[freemium]: https://badgen.net/badge//freemium/purple
-[aucune commission]: https://badgen.net/badge/Commission/Aucune/green
+[free]: https://img.shields.io/badge/-free-brightgreen.svg
+[freemium]: https://img.shields.io/badge/-freemium-green.svg
+[aucune commission]: https://img.shields.io/badge/Comission-Aucune-brightgreen.svg
+[tech-data]: https://img.shields.io/badge/-Tech\/Data-lightgrey.svg
+[FR]: https://img.shields.io/badge/Localisation-FR-blue.svg
+[DE]: https://img.shields.io/badge/Localisation-DE-blue.svg
+[UK]: https://img.shields.io/badge/Localisation-UK-blue.svg
