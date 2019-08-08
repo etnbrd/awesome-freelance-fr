@@ -65,6 +65,7 @@
 ## Complémentaire santé
 
 + [Alan](https://alan.eu/)
++ [Otherwise](https://otherwise.fr/)
 + [WeMind](https://www.wemind.io/)
 
 ## Responsabilité civile professionnelle
