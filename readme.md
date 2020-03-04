@@ -87,3 +87,9 @@
 + [Goneo](https://www.goneo-expertise.com/) (Lyon)
 + [Novaa](http://www.novaa-expertise.com/) (Paris)
 + [Ola compta](https://www.ola-compta.com/) (Marseille)
+
+## Collaboration
+
++ [Taskade](https://www.taskade.com/) (freemium)
++ [Trello](https://www.trello.com/) (freemium)
++ [Slack](https://www.slack.com/) (freemium)
