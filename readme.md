@@ -30,7 +30,6 @@
 
 ## Mise en relation
 
-+ [Acmé](https://www.joinacme.co/) (commission fixe)
 + [Club Freelance](https://www.club-freelance.com/fr/)
 + [Comet](https://www.comet.co/) (comission 15%)
 + [CremeDeLaCreme](https://cremedelacreme.io) (commission 15%)
