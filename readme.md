@@ -80,9 +80,11 @@
 
 ## Comptabilité
 
++ [Clementine](https://compta-clementine.fr) (en ligne)
 + [Dougs](https://www.dougs.fr/) (en ligne)
-+ [L'Expert Comptable](https://www.l-expert-comptable.com/) (en ligne)
 + [ECL Direct](https://www.expert-comptable-tpe.fr) (en ligne)
++ [L'Expert Comptable](https://www.l-expert-comptable.com/) (en ligne)
++ [Fred](https://www.freddelacompta.com/) (en ligne)
 + [Goneo](https://www.goneo-expertise.com/) (Lyon)
 + [Novaa](http://www.novaa-expertise.com/) (Paris)
 + [Ola compta](https://www.ola-compta.com/) (Marseille)
