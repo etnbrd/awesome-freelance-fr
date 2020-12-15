@@ -12,7 +12,7 @@
 
 ### Modèles de documents
 
-+ [Jurismatic - Modèles de documents pour startup (statuts, cession de PI ...)](https://www.jurismatic.com/) (free)
++ [Jurismatic - Modèles de documents pour startup (statuts, cession de PI ...)](https://github.com/jurismatic/jurismatic) (free)
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) (free)
 + [Soto.works - Modèles de documents (devis, facture, contrat, relance ...)](https://www.soto.works/resourcescenter) (free)
 
