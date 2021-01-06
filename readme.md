@@ -61,6 +61,7 @@
 + [N26](https://next.n26.com/fr-fr/) (de)
 + [Shine](https://shine.fr/) (fr)
 + [Revolut](https://www.revolut.com/fr/) (uk)
++ [Blank](https://www.blank.app) (fr)
 
 ## Complémentaire santé
 
