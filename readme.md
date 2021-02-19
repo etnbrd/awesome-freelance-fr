@@ -63,6 +63,10 @@
 + [Revolut](https://www.revolut.com/fr/) (uk)
 + [Shine](https://shine.fr/) (fr)
 
+## Financement
+
++ [Mansa](https://getmansa.com) (fr)
+
 ## Complémentaire santé
 
 + [Alan](https://alan.eu/)
