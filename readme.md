@@ -7,7 +7,6 @@
 ### Accompagnement
 
 + [Agence Juridique](https://agence-juridique.com)
-+ [KickBanking](https://www.kickbanking.com/)
 + [Legalstart](https://www.legalstart.fr/)
 
 ### Modèles de documents
@@ -41,6 +40,7 @@
 
 ## Facturation
 
++ [Superindep.fr facturation](https://www.superindep.fr/facturation.html) (free)
 + [And.co](https://www.and.co/) (free)
 + [Dolibarr](https://www.dolibarr.fr/) (free)
 + [Facture.net](https://facture.net) (free)
@@ -85,6 +85,7 @@
 
 ## Comptabilité
 
++ [Superindep.fr](https://www.superindep.fr/) (en ligne, autoentrepreneur seulement)
 + [Clementine](https://compta-clementine.fr) (en ligne)
 + [Dougs](https://www.dougs.fr/) (en ligne)
 + [ECL Direct](https://www.expert-comptable-tpe.fr) (en ligne)
