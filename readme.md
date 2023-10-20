@@ -41,7 +41,6 @@
 
 ## Facturation
 
-+ [Superindep.fr facturation](https://www.superindep.fr/facturation.html) (free)
 + [And.co](https://www.and.co/) (free)
 + [Dolibarr](https://www.dolibarr.fr/) (free)
 + [Facture.net](https://facture.net) (free)
@@ -52,6 +51,7 @@
 + [Manta](https://getmanta.app/) (free)
 + [MyAE](https://www.myae.fr/) (freemium)
 + [SolidInvoice](https://solidinvoice.co/) (free)
++ [Superindep.fr facturation](https://www.superindep.fr/facturation.html) (free)
 + [Tiime AE](https://www.tiime-ae.fr/) (free)
 + [Zervant](https://www.zervant.com/) (free)
 + [Zoho Invoice](https://www.zoho.com/invoice/) (free)
