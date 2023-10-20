@@ -22,6 +22,7 @@
 
 ### Calculateurs
 
++ [Simulateur de statuts juridiques complet](https://decodage-fiscal.fr/simulateur-de-statuts-juridiques-pour-freelances) (free) 
 + [Calculateur avantage en nature automobile](https://adriantombu.github.io/avantage-nature-auto/) (free) ([source](https://github.com/adriantombu/avantage-nature-auto))
 + [Calculateur de cotisations sociales by Kickbanking](https://simulation.kickbanking.com/) (free)
 + [Simulateur de revenus avant/après IR pour EURL / SASU](https://mon-entreprise.fr/cr%C3%A9er/statut-juridique/dirigeant) (free)
