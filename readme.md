@@ -7,10 +7,13 @@
 ### Accompagnement
 
 + [Agence Juridique](https://agence-juridique.com)
++ [Hiway](https://hiway.fr/)
 + [Legalstart](https://www.legalstart.fr/)
++ [Superindep.fr](https://www.superindep.fr/) (autoentrepreneur seulement)
 
 ### Modèles de documents
 
++ [Captain Contrat - Rédaction contrats, mise en relation avocat](https://www.captaincontrat.com/) (selon prestation)
 + [Jurismatic - Modèles de documents pour startup (statuts, cession de PI ...)](https://github.com/jurismatic/jurismatic) (free)
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) (free)
 + [Soto.works - Modèles de documents (devis, facture, contrat, relance ...)](https://www.soto.works/resourcescenter) (free)
@@ -24,9 +27,10 @@
 
 + [Calculateur avantage en nature automobile](https://adriantombu.github.io/avantage-nature-auto/) (free) ([source](https://github.com/adriantombu/avantage-nature-auto))
 + [Décodage Fiscal : simulateur de statuts juridiques complet](https://decodage-fiscal.fr/simulateur-de-statuts-juridiques-pour-freelances) (free)
-+ [Kickbanking : Calculateur de cotisations sociales](https://simulation.kickbanking.com/) (free)
++ [IndéWIZ : simulateur d'optimisation de rémunération](https://indewiz.gabin.app/) (free)
 + [Simulateur de revenus avant/après IR pour EURL / SASU](https://mon-entreprise.fr/cr%C3%A9er/statut-juridique/dirigeant) (free)
 + [Sources de calculateur de charges EURL / SASU (2017/2018)](https://github.com/AntoineViau/eurl-sasu) (free)
++[Superindep : simulateur et comparateur de status](https://www.superindep.fr/simulateurs.html) (free)
 
 ## Mise en relation
 
@@ -37,6 +41,8 @@
 + [LittleBig Connection](https://www.littlebigconnection.com/fr/) (commission variable)
 + [Malt](https://www.malt.fr/) (commission 10%)
 + [Popcorn](https://popcorn-nantes.github.io/popcorns) (aucune commission) ([source](https://github.com/popcorn-nantes/popcorn-nantes))
++ [Pylote](https://pylote.io/) (diffusion sur 16+ plateformes)
++ [Pylote : comparatif de 80+ plateformes](https://pylote.io/comparatif)
 + [XXE](https://www.xxe.fr/) (aucune commission)
 
 ## Facturation
@@ -50,8 +56,10 @@
 + [Invoice Quick](https://invoicequick.com/) (freemium)
 + [Manta](https://getmanta.app/) (free)
 + [MyAE](https://www.myae.fr/) (freemium)
++ [Pennylane](https://www.pennylane.com/fr/) (200€/an)
 + [SolidInvoice](https://solidinvoice.co/) (free)
 + [Superindep.fr facturation](https://www.superindep.fr/facturation.html) (free)
++ [Tiime](https://www.tiime.fr/) (freemium)
 + [Tiime AE](https://www.tiime-ae.fr/) (free)
 + [Zervant](https://www.zervant.com/) (free)
 + [Zoho Invoice](https://www.zoho.com/invoice/) (free)
@@ -72,12 +80,12 @@
 
 + [Alan](https://alan.eu/)
 + [Otherwise](https://otherwise.fr/)
-+ [WeMind](https://www.wemind.io/)
++ [Wemind](https://www.wemind.io/)
 
 ## Responsabilité civile professionnelle
 
 + [Hiscox](https://www.hiscox.fr/)
-+ [WeMind](https://www.wemind.io/) (30€/mois)
++ [Wemind](https://www.wemind.io/) (30€/mois)
 
 ## Portage salarial
 
@@ -86,7 +94,7 @@
 
 ## Comptabilité
 
-+ [Superindep.fr](https://www.superindep.fr/) (en ligne, autoentrepreneur seulement)
++ [Acasi](https://www.acasi.io/) (en ligne)
 + [Clementine](https://compta-clementine.fr) (en ligne)
 + [Dougs](https://www.dougs.fr/) (en ligne)
 + [ECL Direct](https://www.expert-comptable-tpe.fr) (en ligne)
@@ -95,3 +103,4 @@
 + [Goneo](https://www.goneo-expertise.com/) (Lyon)
 + [Novaa](http://www.novaa-expertise.com/) (Paris)
 + [Ola compta](https://www.ola-compta.com/) (Marseille)
++ [Superindep.fr](https://www.superindep.fr/) (en ligne, autoentrepreneur seulement)
