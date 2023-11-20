@@ -30,6 +30,7 @@
 + [IndéWIZ : simulateur d'optimisation de rémunération](https://indewiz.gabin.app/) (free)
 + [Simulateur de revenus avant/après IR pour EURL / SASU](https://mon-entreprise.fr/cr%C3%A9er/statut-juridique/dirigeant) (free)
 + [Sources de calculateur de charges EURL / SASU (2017/2018)](https://github.com/AntoineViau/eurl-sasu) (free)
++[Superindep : simulateur et comparateur de status](https://www.superindep.fr/simulateurs.html) (free)
 
 ## Mise en relation
 
