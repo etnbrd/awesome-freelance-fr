@@ -16,7 +16,6 @@
 + [Captain Contrat - Rédaction contrats, mise en relation avocat](https://www.captaincontrat.com/) (selon prestation)
 + [Jurismatic - Modèles de documents pour startup (statuts, cession de PI ...)](https://github.com/jurismatic/jurismatic) (free)
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) (free)
-+ [Soto.works - Modèles de documents (devis, facture, contrat, relance ...)](https://www.soto.works/resourcescenter) (free)
 
 ### Signature en ligne
 
@@ -25,7 +24,6 @@
 
 ### Calculateurs
 
-+ [Calculateur avantage en nature automobile](https://adriantombu.github.io/avantage-nature-auto/) (free) ([source](https://github.com/adriantombu/avantage-nature-auto))
 + [Décodage Fiscal : simulateur de statuts juridiques complet](https://decodage-fiscal.fr/simulateur-de-statuts-juridiques-pour-freelances) (free)
 + [IndéWIZ : simulateur d'optimisation de rémunération](https://indewiz.gabin.app/) (free)
 + [Shine : simulateur de revenus freelancing vs salariat](https://simulateurs.shine.fr/) (free)
@@ -36,27 +34,23 @@
 
 ## Mise en relation
 
-+ [Club Freelance](https://www.club-freelance.com/fr/)
 + [Comet](https://www.comet.co/) (comission 15%)
 + [CremeDeLaCreme](https://cremedelacreme.io) (commission 15%)
-+ [Iziday](https://www.iziday.com/) (commission 12%)
-+ [LittleBig Connection](https://www.littlebigconnection.com/fr/) (commission variable)
++ [Free-Work](https://www.free-work.com/fr/) (aucune commission)
 + [Malt](https://www.malt.fr/) (commission 10%)
-+ [Popcorn](https://popcorn-nantes.github.io/popcorns) (aucune commission) ([source](https://github.com/popcorn-nantes/popcorn-nantes))
++ [Popcorn Nantes](https://popcorn-nantes.github.io/) (aucune commission) ([source](https://github.com/popcorn-nantes/popcorn-nantes))
 + [Pylote](https://pylote.io/) (diffusion sur 16+ plateformes)
 + [Pylote : comparatif de 80+ plateformes](https://pylote.io/comparatif)
 + [XXE](https://www.xxe.fr/) (aucune commission)
 
 ## Facturation
 
-+ [And.co](https://www.and.co/) (free)
 + [Dolibarr](https://www.dolibarr.fr/) (free)
 + [Facture.net](https://facture.net) (free)
 + [Freebe](https://www.freebe.me/) (84€/an)
 + [Freelancer](https://freelancer-app.fr/) (freemium)
 + [Henrri](https://www.henrri.com/) (free)
 + [Invoice Quick](https://invoicequick.com/) (freemium)
-+ [Manta](https://getmanta.app/) (free)
 + [MyAE](https://www.myae.fr/) (freemium)
 + [Pennylane](https://www.pennylane.com/fr/) (200€/an)
 + [SolidInvoice](https://solidinvoice.co/) (free)
@@ -81,7 +75,6 @@
 ## Complémentaire santé
 
 + [Alan](https://alan.eu/)
-+ [Otherwise](https://otherwise.fr/)
 + [Wemind](https://www.wemind.io/)
 
 ## Responsabilité civile professionnelle
@@ -91,8 +84,7 @@
 
 ## Portage salarial
 
-+ [Le Monde Après by OpenWork](https://www.lemonde-apres.com/)
-+ [Webportage](https://www.webportage.com/)
++ [OpenWork by freelance.com](https://www.openwork.co/fr/openwork-portage-salarial)
 
 ## Comptabilité
 
@@ -102,7 +94,5 @@
 + [ECL Direct](https://www.expert-comptable-tpe.fr) (en ligne)
 + [L'Expert Comptable](https://www.l-expert-comptable.com/) (en ligne)
 + [Fred](https://www.freddelacompta.com/) (en ligne)
-+ [Goneo](https://www.goneo-expertise.com/) (Lyon)
-+ [Novaa](http://www.novaa-expertise.com/) (Paris)
-+ [Ola compta](https://www.ola-compta.com/) (Marseille)
++ [Numbr](https://numbr.co/) (Bordeaux, Lille, Lyon, Marseille, Nancy, Nantes, Nice, Paris, Rouen, Toulouse)
 + [Superindep.fr](https://www.superindep.fr/) (en ligne, autoentrepreneur seulement)
