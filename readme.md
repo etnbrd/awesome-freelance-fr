@@ -14,6 +14,7 @@
 ### Modèles de documents
 
 + [Captain Contrat - Rédaction contrats, mise en relation avocat](https://www.captaincontrat.com/) (selon prestation)
++ [Contrats.tech - La bibliothèque de contrats open-source](https://www.contrats.tech/)
 + [Jurismatic - Modèles de documents pour startup (statuts, cession de PI ...)](https://github.com/jurismatic/jurismatic) (free)
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) (free)
 
@@ -95,4 +96,6 @@
 + [L'Expert Comptable](https://www.l-expert-comptable.com/) (en ligne)
 + [Fred](https://www.freddelacompta.com/) (en ligne)
 + [Numbr](https://numbr.co/) (Bordeaux, Lille, Lyon, Marseille, Nancy, Nantes, Nice, Paris, Rouen, Toulouse)
++ [Shine - Comptables partenaires](https://partenaire.shine.fr/experts-comptables)
 + [Superindep.fr](https://www.superindep.fr/) (en ligne, autoentrepreneur seulement)
++ [Qonto - Comptables partenaires](https://qonto.com/fr/accountants/partners)
