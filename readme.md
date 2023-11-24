@@ -90,9 +90,11 @@
 ## Comptabilité
 
 + [Acasi](https://www.acasi.io/) (en ligne)
++ [Amarris Direct](https://www.expert-comptable-tpe.fr) (en ligne)
++ [Annuaire des experts-comptables](https://annuaire.experts-comptables.org/)
 + [Clementine](https://compta-clementine.fr) (en ligne)
 + [Dougs](https://www.dougs.fr/) (en ligne)
-+ [Amarris Direct](https://www.expert-comptable-tpe.fr) (en ligne)
++ [keobiz](https://www.keobiz.fr/) (en ligne)
 + [L'Expert Comptable](https://www.l-expert-comptable.com/) (en ligne)
 + [Fred](https://www.freddelacompta.com/) (en ligne)
 + [Numbr](https://numbr.co/) (Bordeaux, Lille, Lyon, Marseille, Nancy, Nantes, Nice, Paris, Rouen, Toulouse)
