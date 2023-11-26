@@ -90,12 +90,16 @@
 ## Comptabilité
 
 + [Acasi](https://www.acasi.io/) (en ligne)
++ [Amarris Direct](https://www.expert-comptable-tpe.fr) (en ligne)
++ [Annuaire des experts-comptables](https://annuaire.experts-comptables.org/)
 + [Clementine](https://compta-clementine.fr) (en ligne)
 + [Dougs](https://www.dougs.fr/) (en ligne)
-+ [ECL Direct](https://www.expert-comptable-tpe.fr) (en ligne)
++ [Indy](https://www.indy.fr/) (en ligne)
++ [Keobiz](https://www.keobiz.fr/) (en ligne)
 + [L'Expert Comptable](https://www.l-expert-comptable.com/) (en ligne)
 + [Fred](https://www.freddelacompta.com/) (en ligne)
 + [Numbr](https://numbr.co/) (Bordeaux, Lille, Lyon, Marseille, Nancy, Nantes, Nice, Paris, Rouen, Toulouse)
 + [Shine - Comptables partenaires](https://partenaire.shine.fr/experts-comptables)
++ [SOCIC](https://www.socic.fr/) (en ligne)
 + [Superindep.fr](https://www.superindep.fr/) (en ligne, autoentrepreneur seulement)
 + [Qonto - Comptables partenaires](https://qonto.com/fr/accountants/partners)
