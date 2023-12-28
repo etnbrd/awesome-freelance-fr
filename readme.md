@@ -28,6 +28,7 @@
 ### Calculateurs
 
 + [Base de donnée des taux d'imposition de la Cotisation Foncière des Entreprises](https://data.economie.gouv.fr/pages/fiscalite-locale-entreprises/) (free)
++ [Calcul des frais kilométriques (IKR)](https://www.impots.gouv.fr/simulateur-bareme-kilometrique) (free)
 + [Décodage Fiscal : simulateur de statuts juridiques complet](https://decodage-fiscal.fr/simulateur-de-statuts-juridiques-pour-freelances) (free)
 + [IndéWIZ : simulateur d'optimisation de rémunération](https://indewiz.gabin.app/) (free)
 + [Shine : simulateur de revenus freelancing vs salariat](https://simulateurs.shine.fr/) (free)
