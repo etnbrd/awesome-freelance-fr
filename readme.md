@@ -66,7 +66,7 @@
 + [Zervant](https://www.zervant.com/) (free)
 + [Zoho Invoice](https://www.zoho.com/invoice/) (free)
 
-## Gestion projet
+## Gestion de projet
 
 + [Toggl : Traqueur de temps](https://toggl.com/)
 
