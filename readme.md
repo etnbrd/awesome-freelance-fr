@@ -42,7 +42,7 @@
 + [Comet](https://www.comet.co/) (comission 15%)
 + [CremeDeLaCreme](https://cremedelacreme.io) (commission 15%)
 + [Free-Work](https://www.free-work.com/fr/) (aucune commission)
-+ [Freelance Republik](https://www.freelancerepublik.com/)
++ [Freelance Republik](https://www.freelancerepublik.com/) (aucune commission)
 + [Malt](https://www.malt.fr/) (commission 10%)
 + [Popcorn Nantes](https://popcorn-nantes.github.io/) (aucune commission) ([source](https://github.com/popcorn-nantes/popcorn-nantes))
 + [Pylote](https://pylote.io/) (diffusion sur 16+ plateformes)
