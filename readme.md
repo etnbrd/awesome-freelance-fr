@@ -85,11 +85,13 @@
 ## Complémentaire santé
 
 + [Alan](https://alan.eu/)
++ [Stello](https://www.stello.eu/)
 + [Wemind](https://www.wemind.io/)
 
 ## Responsabilité civile professionnelle
 
 + [Hiscox](https://www.hiscox.fr/)
++ [Stello](https://www.stello.eu/)
 + [Wemind](https://www.wemind.io/) (30€/mois)
 
 ## Portage salarial
