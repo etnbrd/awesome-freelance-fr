@@ -74,10 +74,11 @@
 ## Banque
 
 + [Blank](https://www.blank.app) (fr)
-+ [Qonto](https://qonto.eu/) (fr)
++ [Finom](https://finom.fr/) (fr)
 + [N26](https://next.n26.com/fr-fr/) (de)
 + [Revolut](https://www.revolut.com/fr/) (uk)
 + [Shine](https://shine.fr/) (fr)
++ [Qonto](https://qonto.eu/) (fr)
 
 ## Financement
 
@@ -93,6 +94,7 @@
 ## Responsabilité civile professionnelle
 
 + [Hiscox](https://www.hiscox.fr/)
++ [Olino](https://www.olino.fr/)
 + [Orus](https://www.orus.eu/)
 + [Stello](https://www.stello.eu/)
 + [Wemind](https://www.wemind.io/) (30€/mois)
