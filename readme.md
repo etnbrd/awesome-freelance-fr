@@ -94,6 +94,7 @@
 ## Responsabilité civile professionnelle
 
 + [Hiscox](https://www.hiscox.fr/)
++ [Olino](https://www.olino.fr/)
 + [Orus](https://www.orus.eu/)
 + [Stello](https://www.stello.eu/)
 + [Wemind](https://www.wemind.io/) (30€/mois)
