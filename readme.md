@@ -8,6 +8,7 @@
 
 + [Agence Juridique](https://agence-juridique.com)
 + [Hiway](https://hiway.fr/)
++ [LegalPlace](https://www.legalplace.fr/)
 + [Legalstart](https://www.legalstart.fr/)
 + [Superindep.fr](https://www.superindep.fr/) (autoentrepreneur seulement)
 
