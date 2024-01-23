@@ -21,9 +21,11 @@
 ### Signature en ligne
 
 + [Blockusign](https://blockusign.co/)
++ [DocuSign](https://www.docusign.com/fr-fr)
 + [Dropbox Sign](https://sign.dropbox.com/)
 + [dochub](https://dochub.com/) (freemium)
 + [Tomorro](https://www.gotomorro.com/fr/)
++ [Yousign](https://yousign.com/fr-fr)
 
 ### Calculateurs
 
