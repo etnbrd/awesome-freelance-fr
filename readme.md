@@ -8,6 +8,7 @@
 
 + [Agence Juridique](https://agence-juridique.com)
 + [Hiway](https://hiway.fr/)
++ [LegalPlace](https://www.legalplace.fr/)
 + [Legalstart](https://www.legalstart.fr/)
 + [Superindep.fr](https://www.superindep.fr/) (autoentrepreneur seulement)
 
@@ -21,9 +22,12 @@
 ### Signature en ligne
 
 + [Blockusign](https://blockusign.co/)
++ [Documenso](https://documenso.com/)
++ [DocuSign](https://www.docusign.com/fr-fr)
 + [Dropbox Sign](https://sign.dropbox.com/)
 + [dochub](https://dochub.com/) (freemium)
 + [Tomorro](https://www.gotomorro.com/fr/)
++ [Yousign](https://yousign.com/fr-fr)
 
 ### Calculateurs
 
