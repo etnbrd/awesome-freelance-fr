@@ -37,6 +37,7 @@
 + [IndéWIZ : simulateur d'optimisation de rémunération](https://indewiz.gabin.app/) (free)
 + [Shine : simulateur de revenus freelancing vs salariat](https://simulateurs.shine.fr/) (free)
 + [Simulateur de revenus avant/après IR pour EURL / SASU](https://mon-entreprise.fr/cr%C3%A9er/statut-juridique/dirigeant) (free)
++ [Simulateur de revenus en cas de pépin](https://www.stello.eu/simulateur-de-revenus) (free)
 + [Sources de calculateur de charges EURL / SASU (2017/2018)](https://github.com/AntoineViau/eurl-sasu) (free)
 + [Superindep : simulateur et comparateur de status](https://www.superindep.fr/simulateurs.html) (free)
 + [Superindep : audit de conformité autoentreprise](https://www.superindep.fr/sante-administrative.html) (free)
