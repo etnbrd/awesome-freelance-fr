@@ -57,12 +57,14 @@
 ## Facturation
 
 + [Abby](https://abby.fr/) (freemium)
++ [Bizyness](https://www.bizyness.fr/) (119€/an)
 + [Dolibarr](https://www.dolibarr.fr/) (free)
 + [Facture.net](https://facture.net) (free)
 + [Freebe](https://www.freebe.me/) (84€/an)
 + [Freelancer](https://freelancer-app.fr/) (freemium)
 + [Henrri](https://www.henrri.com/) (free)
 + [Invoice Quick](https://invoicequick.com/) (freemium)
++ [Libeo](https://libeo.io/) (588€/an)
 + [MyAE](https://www.myae.fr/) (freemium)
 + [Pennylane](https://www.pennylane.com/fr/) (200€/an)
 + [SolidInvoice](https://solidinvoice.co/) (free)
