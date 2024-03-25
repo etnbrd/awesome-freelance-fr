@@ -83,7 +83,6 @@
 + [Blank](https://www.blank.app) (fr)
 + [Finom](https://finom.fr/) (fr)
 + [Indy Compte Pro](https://www.indy.fr/compte-pro/) (fr)
-+ [Memo Bank](https://memo.bank/) (fr)
 + [N26](https://next.n26.com/fr-fr/) (de)
 + [Revolut](https://www.revolut.com/fr/) (uk)
 + [Shine](https://shine.fr/) (fr)
