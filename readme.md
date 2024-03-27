@@ -44,19 +44,29 @@
 + [Superindep : simulateur et comparateur de status](https://www.superindep.fr/simulateurs.html) (free)
 + [Superindep : audit de conformité autoentreprise](https://www.superindep.fr/sante-administrative.html) (free)
 
-## Mise en relation
 
-+ [Comet](https://www.comet.co/) (comission 15%)
-+ [CremeDeLaCreme](https://cremedelacreme.io) (commission 15%)
-+ [Free-Work](https://www.free-work.com/fr/) (aucune commission)
-+ [Freelance Republik](https://www.freelancerepublik.com/) (aucune commission)
-+ [Malt](https://www.malt.fr/) (commission 10%)
-+ [Popcorn Nantes](https://popcorn-nantes.github.io/) (aucune commission) ([source](https://github.com/popcorn-nantes/popcorn-nantes))
-+ [Pylote](https://pylote.io/) (diffusion sur 16+ plateformes)
-+ [Pylote : comparatif de 80+ plateformes](https://pylote.io/comparatif)
-+ [XXE](https://www.xxe.fr/) (aucune commission)
+## Trésorerie
 
-## Facturation
+### Comptabilité
+
++ [Abby](https://abby.fr/) (en ligne)
++ [Acasi](https://www.acasi.io/) (en ligne)
++ [Amarris Direct](https://www.expert-comptable-tpe.fr) (en ligne)
++ [Annuaire des experts-comptables](https://annuaire.experts-comptables.org/)
++ [Ça compte pour moi](https://www.cacomptepourmoi.fr/) (en ligne)
++ [Clementine](https://compta-clementine.fr) (en ligne)
++ [Dougs](https://www.dougs.fr/) (en ligne)
++ [Indy](https://www.indy.fr/) (en ligne)
++ [Keobiz](https://www.keobiz.fr/) (en ligne)
++ [L'Expert Comptable](https://www.l-expert-comptable.com/) (en ligne)
++ [Fred](https://www.freddelacompta.com/) (en ligne)
++ [Numbr](https://numbr.co/) (Bordeaux, Lille, Lyon, Marseille, Nancy, Nantes, Nice, Paris, Rouen, Toulouse)
++ [Shine - Comptables partenaires](https://partenaire.shine.fr/experts-comptables)
++ [SOCIC](https://www.socic.fr/) (en ligne)
++ [Superindep.fr](https://www.superindep.fr/) (en ligne, autoentrepreneur seulement)
++ [Qonto - Comptables partenaires](https://qonto.com/fr/accountants/partners)
+
+### Facturation
 
 + [Abby](https://abby.fr/) (freemium)
 + [Altoviz](https://altoviz.com/fr/) (freemium)
@@ -78,12 +88,7 @@
 + [Zervant](https://www.zervant.com/) (free)
 + [Zoho Invoice](https://www.zoho.com/invoice/) (free)
 
-## Gestion de projet
-
-+ [Timizer](https://timizer.io/)
-+ [Toggl : Traqueur de temps](https://toggl.com/)
-
-## Banque
+### Banque
 
 + [Blank](https://www.blank.app) (fr)
 + [Finom](https://finom.fr/) (fr)
@@ -93,17 +98,29 @@
 + [Shine](https://shine.fr/) (fr)
 + [Qonto](https://qonto.eu/) (fr)
 
-## Financement
+### Financement
 
 + [Mansa](https://getmansa.com) (fr)
 
-## Complémentaire santé
+### Paiement
+
++ [paybystep](https://www.paybystep.com/)
+
+
+## Mutuelle & Complémentaire
+
+### Complémentaire santé
 
 + [Alan](https://alan.eu/)
 + [Olino](https://www.olino.fr/)
 + [Orus](https://www.orus.eu/)
 + [Stello](https://www.stello.eu/)
 + [Wemind](https://www.wemind.io/)
+
+### Retraite
+
++ [Caravel](www.getcaravel.fr)
+
 
 ## Responsabilité civile professionnelle
 
@@ -113,26 +130,32 @@
 + [Stello](https://www.stello.eu/)
 + [Wemind](https://www.wemind.io/) (30€/mois)
 
+
+### Mise en relation
+
++ [Comet](https://www.comet.co/) (comission 15%)
++ [CremeDeLaCreme](https://cremedelacreme.io) (commission 15%)
++ [Free-Work](https://www.free-work.com/fr/) (aucune commission)
++ [Freelance Republik](https://www.freelancerepublik.com/) (aucune commission)
++ [Malt](https://www.malt.fr/) (commission 10%)
++ [Popcorn Nantes](https://popcorn-nantes.github.io/) (aucune commission) ([source](https://github.com/popcorn-nantes/popcorn-nantes))
++ [Pylote](https://pylote.io/) (diffusion sur 16+ plateformes)
++ [Pylote : comparatif de 80+ plateformes](https://pylote.io/comparatif)
++ [XXE](https://www.xxe.fr/) (aucune commission)
+
+
+## Gestion de projet
+
++ [Timizer](https://timizer.io/)
++ [Toggl : Traqueur de temps](https://toggl.com/)
+
+
 ## Portage salarial
 
 + [OpenWork by freelance.com](https://www.openwork.co/fr/openwork-portage-salarial)
 + [Jump](https://www.join-jump.com/)
 
-## Comptabilité
 
-+ [Abby](https://abby.fr/) (en ligne)
-+ [Acasi](https://www.acasi.io/) (en ligne)
-+ [Amarris Direct](https://www.expert-comptable-tpe.fr) (en ligne)
-+ [Annuaire des experts-comptables](https://annuaire.experts-comptables.org/)
-+ [Ça compte pour moi](https://www.cacomptepourmoi.fr/) (en ligne)
-+ [Clementine](https://compta-clementine.fr) (en ligne)
-+ [Dougs](https://www.dougs.fr/) (en ligne)
-+ [Indy](https://www.indy.fr/) (en ligne)
-+ [Keobiz](https://www.keobiz.fr/) (en ligne)
-+ [L'Expert Comptable](https://www.l-expert-comptable.com/) (en ligne)
-+ [Fred](https://www.freddelacompta.com/) (en ligne)
-+ [Numbr](https://numbr.co/) (Bordeaux, Lille, Lyon, Marseille, Nancy, Nantes, Nice, Paris, Rouen, Toulouse)
-+ [Shine - Comptables partenaires](https://partenaire.shine.fr/experts-comptables)
-+ [SOCIC](https://www.socic.fr/) (en ligne)
-+ [Superindep.fr](https://www.superindep.fr/) (en ligne, autoentrepreneur seulement)
-+ [Qonto - Comptables partenaires](https://qonto.com/fr/accountants/partners)
+### Vie professionnelle
+
++ [Cowop](https://www.cowop.co) - communauté de coworker et coworking spaces
