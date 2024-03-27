@@ -136,7 +136,6 @@
 + [Malt](https://www.malt.fr/) (commission 10%)
 + [Popcorn Nantes](https://popcorn-nantes.github.io/) (aucune commission) ([source](https://github.com/popcorn-nantes/popcorn-nantes))
 + [Pylote](https://pylote.io/) (diffusion sur 16+ plateformes)
-+ [Pylote : comparatif de 80+ plateformes](https://pylote.io/comparatif)
 + [XXE](https://www.xxe.fr/) (aucune commission)
 
 ### Communautés
@@ -160,3 +159,8 @@
 
 + [Timizer](https://timizer.io/)
 + [Toggl : Traqueur de temps](https://toggl.com/)
+
+## Ressources
+
++ [Pylote : comparatif de 80+ plateformes de mise en relations](https://pylote.io/comparatif)
++ [Pylote : liste de services pour les indépendants](https://pylote.io/liste-services-freelances)
