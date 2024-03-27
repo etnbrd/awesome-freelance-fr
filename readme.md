@@ -7,29 +7,32 @@
 ### Accompagnement
 
 + [Agence Juridique](https://agence-juridique.com)
++ [Caarl - Votre assistant juridique](https://www.caarl.fr/)
 + [Hiway](https://hiway.fr/)
 + [LegalPlace](https://www.legalplace.fr/)
 + [Legalstart](https://www.legalstart.fr/)
 + [Superindep.fr](https://www.superindep.fr/) (autoentrepreneur seulement)
 
+### Portage salarial
+
++ [OpenWork by freelance.com](https://www.openwork.co/fr/openwork-portage-salarial)
++ [Jump](https://www.join-jump.com/)
+
+### Responsabilité civile professionnelle
+
++ [Hiscox](https://www.hiscox.fr/)
++ [Olino](https://www.olino.fr/)
++ [Orus](https://www.orus.eu/)
++ [Stello](https://www.stello.eu/)
++ [Wemind](https://www.wemind.io/) (30€/mois)
+
 ### Modèles de documents
 
 + [Attestat.io - Attestation comptable pour les auto-entrepreneurs et les indépendants](https://attestat.io/) (249€)
-+ [Caarl - Votre assistant juridique](https://www.caarl.fr/)
 + [Captain Contrat - Rédaction contrats, mise en relation avocat](https://www.captaincontrat.com/) (selon prestation)
 + [Contrats.tech - La bibliothèque de contrats open-source](https://www.contrats.tech/)
 + [Jurismatic - Modèles de documents pour startup (statuts, cession de PI ...)](https://github.com/jurismatic/jurismatic) (free)
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) (free)
-
-### Signature en ligne
-
-+ [Blockusign](https://blockusign.co/)
-+ [Documenso](https://documenso.com/)
-+ [DocuSign](https://www.docusign.com/fr-fr)
-+ [Dropbox Sign](https://sign.dropbox.com/)
-+ [dochub](https://dochub.com/) (freemium)
-+ [Tomorro](https://www.gotomorro.com/fr/)
-+ [Yousign](https://yousign.com/fr-fr)
 
 ### Calculateurs
 
@@ -122,14 +125,7 @@
 + [Caravel](www.getcaravel.fr)
 
 
-## Responsabilité civile professionnelle
-
-+ [Hiscox](https://www.hiscox.fr/)
-+ [Olino](https://www.olino.fr/)
-+ [Orus](https://www.orus.eu/)
-+ [Stello](https://www.stello.eu/)
-+ [Wemind](https://www.wemind.io/) (30€/mois)
-
+## Vie professionnelle
 
 ### Mise en relation
 
@@ -143,19 +139,24 @@
 + [Pylote : comparatif de 80+ plateformes](https://pylote.io/comparatif)
 + [XXE](https://www.xxe.fr/) (aucune commission)
 
+### Communautés
 
-## Gestion de projet
++ [Cowop](https://www.cowop.co) - communauté de coworker et coworking spaces
+
+
+## Outils pro
+
+### Signature en ligne
+
++ [Blockusign](https://blockusign.co/)
++ [Documenso](https://documenso.com/)
++ [DocuSign](https://www.docusign.com/fr-fr)
++ [Dropbox Sign](https://sign.dropbox.com/)
++ [dochub](https://dochub.com/) (freemium)
++ [Tomorro](https://www.gotomorro.com/fr/)
++ [Yousign](https://yousign.com/fr-fr)
+
+### Gestion de projet
 
 + [Timizer](https://timizer.io/)
 + [Toggl : Traqueur de temps](https://toggl.com/)
-
-
-## Portage salarial
-
-+ [OpenWork by freelance.com](https://www.openwork.co/fr/openwork-portage-salarial)
-+ [Jump](https://www.join-jump.com/)
-
-
-### Vie professionnelle
-
-+ [Cowop](https://www.cowop.co) - communauté de coworker et coworking spaces
