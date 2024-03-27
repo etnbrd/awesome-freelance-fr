@@ -15,6 +15,7 @@
 ### Modèles de documents
 
 + [Attestat.io - Attestation comptable pour les auto-entrepreneurs et les indépendants](https://attestat.io/) (249€)
++ [Caarl - Votre assistant juridique](https://www.caarl.fr/)
 + [Captain Contrat - Rédaction contrats, mise en relation avocat](https://www.captaincontrat.com/) (selon prestation)
 + [Contrats.tech - La bibliothèque de contrats open-source](https://www.contrats.tech/)
 + [Jurismatic - Modèles de documents pour startup (statuts, cession de PI ...)](https://github.com/jurismatic/jurismatic) (free)
@@ -58,6 +59,7 @@
 ## Facturation
 
 + [Abby](https://abby.fr/) (freemium)
++ [Altoviz](https://altoviz.com/fr/) (freemium)
 + [Bizyness](https://www.bizyness.fr/) (119€/an)
 + [Dolibarr](https://www.dolibarr.fr/) (free)
 + [Facture.net](https://facture.net) (free)
@@ -98,6 +100,7 @@
 ## Complémentaire santé
 
 + [Alan](https://alan.eu/)
++ [Olino](https://www.olino.fr/)
 + [Orus](https://www.orus.eu/)
 + [Stello](https://www.stello.eu/)
 + [Wemind](https://www.wemind.io/)
@@ -113,6 +116,7 @@
 ## Portage salarial
 
 + [OpenWork by freelance.com](https://www.openwork.co/fr/openwork-portage-salarial)
++ [Jump](https://www.join-jump.com/)
 
 ## Comptabilité
 
