@@ -103,6 +103,7 @@
 + [Revolut](https://www.revolut.com/fr/) (uk)
 + [Shine](https://shine.fr/) (fr)
 + [Sumup Compte Pro](https://www.sumup.com/fr-fr/compte-pro/) (ie)
++ [Tiime Compte Pro](https://www.tiime.fr/compte-pro) (fr)
 + [Qonto](https://qonto.eu/) (fr)
 + [Wise](https://wise.com/fr/business/) (be)
 
