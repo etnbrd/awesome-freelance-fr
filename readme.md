@@ -94,12 +94,15 @@
 ### Banque
 
 + [Blank](https://www.blank.app) (fr)
++ [Bourso Pro](https://www.boursobank.com/banque/compte-bancaire-pro) (fr)
 + [Finom](https://finom.fr/) (fr)
++ [Green Got](https://green-got.com/compte-microentreprise) (fr)
 + [Indy Compte Pro](https://www.indy.fr/compte-pro/) (fr)
 + [N26](https://next.n26.com/fr-fr/) (de)
 + [Revolut](https://www.revolut.com/fr/) (uk)
 + [Shine](https://shine.fr/) (fr)
 + [Qonto](https://qonto.eu/) (fr)
++ [Wise](https://wise.com/fr/business/) (be)
 
 ### Financement
 
