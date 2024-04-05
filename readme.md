@@ -101,6 +101,7 @@
 + [N26](https://next.n26.com/fr-fr/) (de)
 + [Revolut](https://www.revolut.com/fr/) (uk)
 + [Shine](https://shine.fr/) (fr)
++ [Sumup Compte Pro](https://www.sumup.com/fr-fr/compte-pro/)
 + [Qonto](https://qonto.eu/) (fr)
 + [Wise](https://wise.com/fr/business/) (be)
 
