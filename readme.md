@@ -97,6 +97,7 @@
 + [Bourso Pro](https://www.boursobank.com/banque/compte-bancaire-pro) (fr)
 + [Finom](https://finom.fr/) (fr)
 + [Green Got](https://green-got.com/compte-microentreprise) (fr)
++ [Hello bank! Pro](https://www.hellobankpro.fr/) (fr)
 + [Indy Compte Pro](https://www.indy.fr/compte-pro/) (fr)
 + [N26](https://next.n26.com/fr-fr/) (de)
 + [Propulse by Crédit Agricole](https://propulsebyca.fr/) (fr)
