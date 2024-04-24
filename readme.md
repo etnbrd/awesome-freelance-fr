@@ -29,6 +29,7 @@
 ### Modèles de documents
 
 + [Attestat.io - Attestation comptable pour les auto-entrepreneurs et les indépendants](https://attestat.io/) (249€)
++ [BOLD - Modèles de contrats](https://www.wearebold.co/documents)
 + [Captain Contrat - Rédaction contrats, mise en relation avocat](https://www.captaincontrat.com/) (selon prestation)
 + [Contrats.tech - La bibliothèque de contrats open-source](https://www.contrats.tech/)
 + [Jurismatic - Modèles de documents pour startup (statuts, cession de PI ...)](https://github.com/jurismatic/jurismatic) (free)
