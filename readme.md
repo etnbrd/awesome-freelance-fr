@@ -33,6 +33,7 @@
 + [Contrats.tech - La bibliothèque de contrats open-source](https://www.contrats.tech/)
 + [Jurismatic - Modèles de documents pour startup (statuts, cession de PI ...)](https://github.com/jurismatic/jurismatic) (free)
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) (free)
++ [Tomorro - Modèles de contrats](https://www.gotomorro.com/fr/modeles-de-contrats)
 
 ### Calculateurs
 
@@ -159,7 +160,6 @@
 + [DocuSign](https://www.docusign.com/fr-fr)
 + [Dropbox Sign](https://sign.dropbox.com/)
 + [dochub](https://dochub.com/) (freemium)
-+ [Tomorro](https://www.gotomorro.com/fr/)
 + [Yousign](https://yousign.com/fr-fr)
 
 ### Gestion de projet
