@@ -26,11 +26,6 @@
 + [Stello](https://www.stello.eu/)
 + [Wemind](https://www.wemind.io/) (30€/mois)
 
-### Déclaration impôts
-
-+ [Clickimpôts](https://www.clickimpots.com/)
-+ [Decla.fr](https://www.decla.fr/)
-
 ### Modèles de documents
 
 + [Attestat.io - Attestation comptable pour les auto-entrepreneurs et les indépendants](https://attestat.io/) (249€)
@@ -122,6 +117,11 @@
 ### Paiement
 
 + [paybystep](https://www.paybystep.com/)
+
+### Déclaration impôts
+
++ [Clickimpôts](https://www.clickimpots.com/)
++ [Decla.fr](https://www.decla.fr/)
 
 
 ## Mutuelle & Complémentaire
