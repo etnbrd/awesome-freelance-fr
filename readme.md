@@ -103,6 +103,7 @@
 + [Hello bank! Pro](https://www.hellobankpro.fr/) (fr)
 + [Indy Compte Pro](https://www.indy.fr/compte-pro/) (fr)
 + [N26](https://next.n26.com/fr-fr/) (de)
++ [Pennylane Compte Pro](https://www.pennylane.com/fr/compte-pro/) (fr)
 + [Propulse by Crédit Agricole](https://propulsebyca.fr/) (fr)
 + [Revolut](https://www.revolut.com/fr/) (uk)
 + [Shine](https://shine.fr/) (fr)
