@@ -41,10 +41,10 @@
 
 + [Base de donnée des taux d'imposition de la Cotisation Foncière des Entreprises](https://data.economie.gouv.fr/pages/fiscalite-locale-entreprises/) (free)
 + [Calcul des frais kilométriques (IKR)](https://www.impots.gouv.fr/simulateur-bareme-kilometrique) (free)
-+ [Calcul ton TJM à partir de ton objectif de chiffre d'affaires ou de salaire](https://www.freelancecashculator.com)
 + [Décodage Fiscal : simulateur de statuts juridiques complet](https://decodage-fiscal.fr/simulateur-de-statuts-juridiques-pour-freelances) (free)
 + [IndéWIZ : simulateur d'optimisation de rémunération](https://indewiz.gabin.app/) (free)
 + [Etineo : Calcul du salaire d'un freelance selon les différents statuts juridiques](https://etineo.com/simulateur-salaire-freelance) (free)
++ [FreelanceCashculator : Calcul ton TJM à partir de ton objectif de chiffre d'affaires ou de salaire](https://www.freelancecashculator.com) (free)
 + [Shine : simulateur de revenus freelancing vs salariat](https://simulateurs.shine.fr/) (free)
 + [Simulateur de revenus avant/après IR pour EURL / SASU](https://mon-entreprise.fr/cr%C3%A9er/statut-juridique/dirigeant) (free)
 + [Simulateur de revenus en cas de pépin](https://www.stello.eu/simulateur-de-revenus) (free)
