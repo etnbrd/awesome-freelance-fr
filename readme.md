@@ -45,6 +45,7 @@
 + [IndéWIZ : simulateur d'optimisation de rémunération](https://indewiz.gabin.app/) (free)
 + [Etineo : Calcul du salaire d'un freelance selon les différents statuts juridiques](https://etineo.com/simulateur-salaire-freelance) (free)
 + [FreelanceCashculator : Calcul ton TJM à partir de ton objectif de chiffre d'affaires ou de salaire](https://www.freelancecashculator.com) (free)
++ [SeDomicilier - Estimer le montant de votre CFE](https://sedomicilier.fr/cotisation-fonciere-entreprise/estimation) (free)
 + [Shine : simulateur de revenus freelancing vs salariat](https://simulateurs.shine.fr/) (free)
 + [Simulateur de revenus avant/après IR pour EURL / SASU](https://mon-entreprise.fr/cr%C3%A9er/statut-juridique/dirigeant) (free)
 + [Simulateur de revenus en cas de pépin](https://www.stello.eu/simulateur-de-revenus) (free)
@@ -179,5 +180,6 @@
 
 ## Ressources
 
++ [La Micro by Flo : Les meilleures ressources pour les indépendant·es](https://ressources.lamicrobyflo.fr/)
 + [Pylote : comparatif de 80+ plateformes de mise en relations](https://pylote.io/comparatif)
 + [Pylote : liste de services pour les indépendants](https://pylote.io/liste-services-freelances)
