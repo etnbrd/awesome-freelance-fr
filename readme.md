@@ -73,6 +73,7 @@
 + [Shine - Comptables partenaires](https://partenaire.shine.fr/experts-comptables)
 + [SOCIC](https://www.socic.fr/) (en ligne)
 + [Superindep.fr](https://www.superindep.fr/) (en ligne, autoentrepreneur seulement)
++ [Swapn](https://www.swapn.fr/) (en ligne)
 + [Qonto - Comptables partenaires](https://qonto.com/fr/accountants/partners)
 
 ### Facturation
