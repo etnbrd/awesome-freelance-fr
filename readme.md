@@ -173,6 +173,7 @@
 + [DocuSign](https://www.docusign.com/fr-fr)
 + [Dropbox Sign](https://sign.dropbox.com/)
 + [dochub](https://dochub.com/) (freemium)
++ [Ugosign](https://ugosign.com) (freemium)
 + [Yousign](https://yousign.com/fr-fr)
 
 ### Gestion de projet
