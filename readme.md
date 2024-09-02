@@ -168,6 +168,7 @@
 
 ### Signature en ligne
 
++ [Ugosign](https://ugosign.com) (freemium)
 + [Blockusign](https://blockusign.co/)
 + [Documenso](https://documenso.com/)
 + [DocuSign](https://www.docusign.com/fr-fr)
