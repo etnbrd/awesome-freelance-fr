@@ -85,7 +85,7 @@
 + [Facture.net](https://facture.net) (free)
 + [Freebe](https://www.freebe.me/) (84€/an)
 + [Freelancer](https://freelancer-app.fr/) (freemium)
-+ [Henrri](https://www.henrri.com/) (free)
++ [Henrri](https://www.henrri.com/) (freemium)
 + [Invoice Quick](https://invoicequick.com/) (freemium)
 + [irma](https://irma.vision/) (à partir de 10€/mois)
 + [Libeo](https://libeo.io/) (588€/an)
@@ -94,9 +94,9 @@
 + [SolidInvoice](https://solidinvoice.co/) (free)
 + [Superindep.fr facturation](https://www.superindep.fr/facturation.html) (free)
 + [Tiime](https://www.tiime.fr/) (freemium)
-+ [Tiime AE](https://www.tiime-ae.fr/) (free)
-+ [Zervant](https://www.zervant.com/) (free)
-+ [Zoho Invoice](https://www.zoho.com/invoice/) (free)
++ [Tiime AE](https://www.tiime-ae.fr/) (freemium)
++ [Zervant](https://www.zervant.com/) (freemium)
++ [Zoho Invoice](https://www.zoho.com/invoice/) (freemium)
 
 ### Banque
 
