@@ -183,6 +183,6 @@
 
 ## Ressources
 
-+ [La Micro by Flo : Les meilleures ressources pour les indépendant·es](https://ressources.lamicrobyflo.fr/)
++ [La Micro by Flo : Les meilleures ressources pour les micro-entrepreneurs](https://lamicrotheque.fr/)
 + [Pylote : comparatif de 80+ plateformes de mise en relations](https://pylote.io/comparatif)
 + [Pylote : liste de services pour les indépendants](https://pylote.io/liste-services-freelances)
