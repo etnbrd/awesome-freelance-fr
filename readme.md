@@ -90,6 +90,7 @@
 + [Invoice Quick](https://invoicequick.com/) (freemium)
 + [irma](https://irma.vision/) (à partir de 10€/mois)
 + [Libeo](https://libeo.io/) (588€/an)
++ [Lycha](https://www.lycha.fr/) (free)
 + [MyAE](https://www.myae.fr/) (freemium)
 + [Pennylane](https://www.pennylane.com/fr/) (200€/an)
 + [SolidInvoice](https://solidinvoice.co/) (free)
