@@ -45,6 +45,7 @@
 + [Calcul des frais kilométriques (IKR)](https://www.impots.gouv.fr/simulateur-bareme-kilometrique) (free)
 + [Décodage Fiscal : simulateur de statuts juridiques complet](https://decodage-fiscal.fr/simulateur-de-statuts-juridiques-pour-freelances) (free)
 + [IndéWIZ : simulateur d'optimisation de rémunération](https://indewiz.gabin.app/) (free)
++ [Cobalt Studio : Freelance Rate Calculator](https://techchenko.github.io/cobaltstudio-products/tools/rate-calculator/) (free) - Calcule ton taux horaire selon ton objectif de revenu, tes heures et tes coûts (EN).
 + [Etineo : Calcul du salaire d'un freelance selon les différents statuts juridiques](https://etineo.com/simulateur-salaire-freelance) (free)
 + [FreelanceCashculator : Calcul ton TJM à partir de ton objectif de chiffre d'affaires ou de salaire](https://www.freelancecashculator.com) (free)
 + [SeDomicilier - Estimer le montant de votre CFE](https://sedomicilier.fr/cotisation-fonciere-entreprise/estimation) (free)
