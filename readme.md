@@ -39,6 +39,10 @@
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) (free)
 + [Tomorro - Modèles de contrats](https://www.gotomorro.com/fr/modeles-de-contrats)
 
++ [Cobalt Studio Templates Hub](https://techchenko.github.io/cobaltstudio-products/files/) (free) - Modèles business à copier/coller (emails, propositions, SOW, etc.) (EN).
++ [Cobalt Studio : Project Closeout Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/project-closeout-email-generator/) (free) - Générateur d'email de fin de projet (EN).
++ [Cobalt Studio : Client Offboarding Checklist Generator](https://techchenko.github.io/cobaltstudio-products/tools/client-offboarding-checklist-generator/) (free) - Checklist de fin de mission/offboarding client (EN).
+
 ### Calculateurs
 
 + [Base de donnée des taux d'imposition de la Cotisation Foncière des Entreprises](https://data.economie.gouv.fr/pages/fiscalite-locale-entreprises/) (free)
