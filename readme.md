@@ -2,6 +2,7 @@
 
 # Awesome freelance tools - fr
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts pour l orchestration de workflows freelance, la gestion automatisee de projets, et la coordination multi-agents. Licence MIT.
 ## Administratif
 
 ### Accompagnement
