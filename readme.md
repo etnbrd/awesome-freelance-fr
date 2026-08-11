@@ -183,6 +183,7 @@
 
 ### Gestion de projet
 
++ [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_freelance_fr&utm_content=project_management) - Outil gratuit dans le navigateur pour cadrer les projets freelance, préparer les devis et documenter les demandes de changement (interface en anglais).
 + [Timizer](https://timizer.io/)
 + [Toggl : Traqueur de temps](https://toggl.com/)
 
