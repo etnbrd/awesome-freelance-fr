@@ -100,6 +100,7 @@
 + [Superindep.fr facturation](https://www.superindep.fr/facturation.html) (free)
 + [Tiime](https://www.tiime.fr/) (freemium)
 + [Tiime AE](https://www.tiime-ae.fr/) (freemium)
++ [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) (free) — [licence commerciale EUR 249](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-freelance-fr-v1) white-label, 6 modèles, batch CSV sans compte
 + [Zervant](https://www.zervant.com/) (freemium)
 + [Zoho Invoice](https://www.zoho.com/invoice/) (freemium)
 
