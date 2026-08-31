@@ -171,6 +171,10 @@
 
 ## Outils pro
 
+### Page d'offre
+
++ [Ibis — composeur de page d'offre dans le navigateur (sans compte)](https://cartonpliant.github.io/ibis/) (gratuit filigrane / 9€)
+
 ### Signature en ligne
 
 + [Blockusign](https://blockusign.co/)
