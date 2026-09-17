@@ -183,6 +183,7 @@
 
 ### Gestion de projet
 
++ [Avendo : Gestion des clients, missions, paiements et rendez-vous](https://avendo-app.com/fr/) (freemium)
 + [Timizer](https://timizer.io/)
 + [Toggl : Traqueur de temps](https://toggl.com/)
 
