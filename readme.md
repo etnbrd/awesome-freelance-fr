@@ -95,6 +95,7 @@
 + [Lycha](https://www.lycha.fr/) (free)
 + [MyAE](https://www.myae.fr/) (freemium)
 + [Nutilz Invoice Generator](https://nutilz.com/invoice-generator) (free)
++ [Client Close Kit — Free Invoice Generator](https://darweesh128-cmd.github.io/client-close-kit/invoice-generator.html) (free)
 + [Pennylane](https://www.pennylane.com/fr/) (200€/an)
 + [SolidInvoice](https://solidinvoice.co/) (free)
 + [Superindep.fr facturation](https://www.superindep.fr/facturation.html) (free)
