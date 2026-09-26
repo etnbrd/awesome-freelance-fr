@@ -184,6 +184,7 @@
 ### Gestion de projet
 
 + [Avendo : Gestion des clients, missions, paiements et rendez-vous](https://avendo-app.com/fr/) (freemium)
++ [CRMlead : CRM pour suivre ses leads, relances et rendez-vous](https://crmlead.io/) (freemium)
 + [Timizer](https://timizer.io/)
 + [Toggl : Traqueur de temps](https://toggl.com/)
 
