@@ -47,6 +47,8 @@
 + [IndéWIZ : simulateur d'optimisation de rémunération](https://indewiz.gabin.app/) (free)
 + [Etineo : Calcul du salaire d'un freelance selon les différents statuts juridiques](https://etineo.com/simulateur-salaire-freelance) (free)
 + [FreelanceCashculator : Calcul ton TJM à partir de ton objectif de chiffre d'affaires ou de salaire](https://www.freelancecashculator.com) (free)
++ [Mon Premier Client : calcul du TJM minimum selon le net visé, le statut et les jours facturés](https://monpremierclient.fr/guides/calcul-tjm-freelance/) (free)
++ [Mon Premier Client : simulateur de charges micro-entrepreneur 2026 (cotisations, ACRE, versement libératoire)](https://monpremierclient.fr/guides/simulateur-charges-micro-entrepreneur/) (free)
 + [SeDomicilier - Estimer le montant de votre CFE](https://sedomicilier.fr/cotisation-fonciere-entreprise/estimation) (free)
 + [Shine : simulateur de revenus freelancing vs salariat](https://simulateurs.shine.fr/) (free)
 + [Simulateur de revenus avant/après IR pour EURL / SASU](https://mon-entreprise.fr/cr%C3%A9er/statut-juridique/dirigeant) (free)
