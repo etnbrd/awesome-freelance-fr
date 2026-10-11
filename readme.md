@@ -167,6 +167,7 @@
 + [Pada1](https://www.pada1.app/) (aucune commission)
 + [Popcorn Nantes](https://popcorn-nantes.github.io/) (aucune commission) ([source](https://github.com/popcorn-nantes/popcorn-nantes))
 + [Pylote](https://pylote.io/) (diffusion sur 16+ plateformes)
++ [Veille AO Formation : appels d'offres publics de formation (BOAMP, TED)](https://vread-corp.github.io/veille-ao-formation/) (gratuit, flux RSS et export CSV, pour formateurs et organismes de formation)
 + [XXE](https://www.xxe.fr/) (aucune commission)
 
 ### Communautés
