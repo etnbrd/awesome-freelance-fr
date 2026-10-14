@@ -89,6 +89,7 @@
 + [Altoviz](https://altoviz.com/fr/) (freemium)
 + [Bizyness](https://www.bizyness.fr/) (119€/an)
 + [Dolibarr](https://www.dolibarr.fr/) (free)
++ [einvoicevalidator.eu : validateur Factur-X / ZUGFeRD / Peppol, sans inscription](https://einvoicevalidator.eu/fr) (free)
 + [Facture.net](https://facture.net) (free)
 + [Générateur de facture micro-entrepreneur PDF (sans inscription, open source)](https://7eventsense-tech.github.io/facture/) (free)
 + [Freebe](https://www.freebe.me/) (84€/an)
