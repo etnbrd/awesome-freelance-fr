@@ -100,6 +100,7 @@
 + [Lycha](https://www.lycha.fr/) (free)
 + [MyAE](https://www.myae.fr/) (freemium)
 + [Nutilz Invoice Generator](https://nutilz.com/invoice-generator) (free)
++ [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli) - CLI open-source sans dépendance, génère une facture HTML à partir d'un fichier JSON (free)
 + [Pennylane](https://www.pennylane.com/fr/) (200€/an)
 + [SolidInvoice](https://solidinvoice.co/) (free)
 + [Superindep.fr facturation](https://www.superindep.fr/facturation.html) (free)
