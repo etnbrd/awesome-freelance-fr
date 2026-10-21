@@ -93,6 +93,7 @@
 + [Générateur de facture micro-entrepreneur PDF (sans inscription, open source)](https://7eventsense-tech.github.io/facture/) (free)
 + [Freebe](https://www.freebe.me/) (84€/an)
 + [Freelancer](https://freelancer-app.fr/) (freemium)
++ [Freelance Invoice CLI](https://github.com/kleogeos/freelance-invoice-cli) - générateur de factures HTML en ligne de commande, open source, sans inscription (free)
 + [Henrri](https://www.henrri.com/) (freemium)
 + [Invoice Quick](https://invoicequick.com/) (freemium)
 + [irma](https://irma.vision/) (à partir de 10€/mois)
