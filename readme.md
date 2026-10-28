@@ -58,6 +58,7 @@
 + [Sources de calculateur de charges EURL / SASU (2017/2018)](https://github.com/AntoineViau/eurl-sasu) (free)
 + [Superindep : simulateur et comparateur de status](https://www.superindep.fr/simulateurs.html) (free)
 + [Superindep : audit de conformité autoentreprise](https://www.superindep.fr/sante-administrative.html) (free)
++ [VideoDevis : calcul de la marge réelle d'une mission freelance (net après frais, taux horaire)](https://videodevis.fr/calculateur-marge-mission.html) (free)
 
 
 ## Trésorerie
@@ -106,6 +107,7 @@
 + [Superindep.fr facturation](https://www.superindep.fr/facturation.html) (free)
 + [Tiime](https://www.tiime.fr/) (freemium)
 + [Tiime AE](https://www.tiime-ae.fr/) (freemium)
++ [VideoDevis : générateur de devis pour vidéastes freelance, pré-chiffré au prix du marché, sans inscription](https://videodevis.fr/calculateur-devis.html) (free)
 + [Zervant](https://www.zervant.com/) (freemium)
 + [Zoho Invoice](https://www.zoho.com/invoice/) (freemium)
 
