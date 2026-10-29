@@ -93,6 +93,7 @@
 + [Facture.net](https://facture.net) (free)
 + [Générateur de facture micro-entrepreneur PDF (sans inscription, open source)](https://7eventsense-tech.github.io/facture/) (free)
 + [Freebe](https://www.freebe.me/) (84€/an)
++ [Friday Invoice Chase Ranker : priorise qui relancer en premier quand plusieurs factures sont en retard (60s, local-first, sans inscription)](https://sirmem.github.io/friday-invoice-chase-tool/) (free)
 + [Freelancer](https://freelancer-app.fr/) (freemium)
 + [Henrri](https://www.henrri.com/) (freemium)
 + [Invoice Quick](https://invoicequick.com/) (freemium)
