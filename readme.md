@@ -177,6 +177,10 @@
 
 ## Outils pro
 
+### Conversion de fichiers & documents
+
++ [KaijuConverter : Convertisseur universel de fichiers gratuit en ligne (PDF, documents, images, vidéo, audio)](https://kaijuconverter.com/fr) (gratuit)
+
 ### Signature en ligne
 
 + [Blockusign](https://blockusign.co/)
