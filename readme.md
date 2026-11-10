@@ -198,5 +198,6 @@
 
 + [La Micro by Flo : Les meilleures ressources pour les micro-entrepreneurs](https://lamicrotheque.fr/)
 + [Mon Premier Client : comparatifs banque pro, compta, RC pro et guides pour freelances qui démarrent](https://monpremierclient.fr/) (free)
++ [Page Scope : fiche TXT vierge de passation d'un site Carrd (en anglais)](https://github.com/kumiromiscythespec/carrd-client-handoff-brief) (free)
 + [Pylote : comparatif de 80+ plateformes de mise en relations](https://pylote.io/comparatif)
 + [Pylote : liste de services pour les indépendants](https://pylote.io/liste-services-freelances)
