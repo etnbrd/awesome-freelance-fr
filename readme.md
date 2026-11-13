@@ -193,6 +193,7 @@
 
 + [Avendo : Gestion des clients, missions, paiements et rendez-vous](https://avendo-app.com/fr/) (freemium)
 + [CRMlead : CRM pour suivre ses leads, relances et rendez-vous](https://crmlead.io/) (freemium)
++ [MarsDataAI : CRM pour consultants, notes clients et relances](https://marsdata.ai/crm-for-consultants) (freemium, en anglais)
 + [Timizer](https://timizer.io/)
 + [Toggl : Traqueur de temps](https://toggl.com/)
 
