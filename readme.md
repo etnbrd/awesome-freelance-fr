@@ -179,6 +179,10 @@
 
 ## Outils pro
 
+### Documents & Traduction
+
+- [HumanPen](https://humanpen.net) : Plateforme commerciale par cr?dits (100 cr?dits offerts ? l'inscription) pour la traduction de documents en 12 langues avec pr?servation de la mise en page (PDF, DOCX, PPTX, XLSX, EPUB, HTML, TXT), l'humanisation de documents (DOCX, PPTX, TXT), la condensation (DOCX), la correction de citations (DOCX, 12 styles) et les projets de recherche.
+
 ### Signature en ligne
 
 + [Blockusign](https://blockusign.co/)
