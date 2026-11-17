@@ -181,7 +181,7 @@
 
 ### Documents & Traduction
 
-- [HumanPen](https://humanpen.net) : Plateforme commerciale par cr?dits (100 cr?dits offerts ? l'inscription) pour la traduction de documents en 12 langues avec pr?servation de la mise en page (PDF, DOCX, PPTX, XLSX, EPUB, HTML, TXT), l'humanisation de documents (DOCX, PPTX, TXT), la condensation (DOCX), la correction de citations (DOCX, 12 styles) et les projets de recherche.
+- [HumanPen](https://humanpen.net) : Service payant par crédits de traduction et de traitement de documents, avec 100 crédits offerts à l'inscription.
 
 ### Signature en ligne
 
