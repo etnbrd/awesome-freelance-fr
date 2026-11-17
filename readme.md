@@ -34,6 +34,7 @@
 + [BOLD - Modèles de contrats](https://www.wearebold.co/documents)
 + [Captain Contrat - Rédaction contrats, mise en relation avocat](https://www.captaincontrat.com/) (selon prestation)
 + [Contrats.tech - La bibliothèque de contrats open-source](https://www.contrats.tech/)
++ [Freelance Client Onboarding Toolkit - Questionnaire client, checklist de démarrage, procédures et calculateur de tarif (en anglais, CC BY 4.0)](https://github.com/AHMEDFOUAAD/freelance-client-onboarding-toolkit) (free)
 + [freelance-contrats - Modèles de contrats pour freelances informatiques](https://github.com/freelance-info/freelance-contrats)
 + [Jurismatic - Modèles de documents pour startup (statuts, cession de PI ...)](https://github.com/jurismatic/jurismatic) (free)
 + [Modèles de contrats utilisables par des freelances, validés par un avocat, et sous license MIT](https://github.com/purban/contrats-francais) (free)
