@@ -181,7 +181,7 @@
 
 ### Documents & Traduction
 
-- [HumanPen](https://humanpen.net) : Service payant par crédits de traduction et de traitement de documents, avec 100 crédits offerts à l'inscription.
+- [HumanPen](https://humanpen.net) : Service payant par crédits de traduction et de traitement de documents, avec 100 crédits offerts une seule fois à l'inscription.
 
 ### Signature en ligne
 
