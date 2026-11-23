@@ -58,6 +58,7 @@
 + [Sources de calculateur de charges EURL / SASU (2017/2018)](https://github.com/AntoineViau/eurl-sasu) (free)
 + [Superindep : simulateur et comparateur de status](https://www.superindep.fr/simulateurs.html) (free)
 + [Superindep : audit de conformité autoentreprise](https://www.superindep.fr/sante-administrative.html) (free)
++ [TimeTotals : calcul des heures travaillées et heures supplémentaires, conversion en centièmes, feuille d'heures PDF](https://timetotals.com/fr/calcul-heures-de-travail/) (free)
 + [VideoDevis : calcul de la marge réelle d'une mission freelance (net après frais, taux horaire)](https://videodevis.fr/calculateur-marge-mission.html) (free)
 
 
