@@ -196,6 +196,10 @@
 + [Timizer](https://timizer.io/)
 + [Toggl : Traqueur de temps](https://toggl.com/)
 
+### Signature e-mail
+
++ [Fairsig : Générateur de signature e-mail pour Gmail, Outlook et Apple Mail, mentions légales incluses](https://fairsig.com/fr) (freemium)
+
 ## Ressources
 
 + [La Micro by Flo : Les meilleures ressources pour les micro-entrepreneurs](https://lamicrotheque.fr/)
